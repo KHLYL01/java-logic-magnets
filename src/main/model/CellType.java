@@ -1,0 +1,5 @@
+package main.model;
+
+public enum CellType {
+    NONE,BL0CK,STONE,SOLVE,ATTRACT,REPELLENT,SOLVE_STONE,SOLVE_ATTRACT,SOLVE_REPELLENT
+}
